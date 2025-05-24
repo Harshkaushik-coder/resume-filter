@@ -50,10 +50,7 @@ The AI Resume Filter uses machine learning and natural language processing to an
 ```
 resume-filter/
 ├── app1.py                  # Main Streamlit app
-├── resume_parser.py         # PDF parsing and text extraction
-├── embedding_utils.py       # SentenceTransformer + Vector DB logic
-├── keyword_extractor.py     # Skill/keyword matching and scoring
-├── .env                     # API keys (ignored in .gitignore)
+├── .gitignore                     # API keys (ignored in .gitignore)
 ├── requirements.txt         # Dependencies
 └── README.md                # Project documentation
 ```
