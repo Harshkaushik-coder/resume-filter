@@ -3,3 +3,7 @@ PyMuPDF
 sentence-transformers
 transformers
 requests
+python-dotenv
+spacy
+pyspellchecker
+torch
