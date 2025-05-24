@@ -1,6 +1,6 @@
 # 📄 AI Resume Filter
 
-An AI-powered resume filtering tool that helps recruiters and HR teams efficiently screen resumes based on job relevance, required skills, and formatting quality — all through a smart Streamlit interface.
+AI Resume Filter is an intelligent tool designed to help recruiters, HR teams, and students/job seekers quickly and accurately evaluate resumes. It analyzes resumes to check how well they match a job description by looking at relevant skills, keywords, and resume formatting quality — all through an easy-to-use web interface built with Streamlit.
 
 ---
 
